@@ -19,7 +19,7 @@ If you are interested in further investigating your own study throughout this da
 > Kitsuchart Pasupa, Ponruedee Netisopakul, Ratthawut Lertsuksakda, "Sentiment Analysis on Thai Children Stories", In Artificial Life and Robotics, vol. 21, no. 3, pp. 357-364, 2016. DOI: 10.1007/s10015-016-0283-8
 
 We further compared a set of well-known deep learning techniques on this dataset. This can be found at:
-> Kitsuchart Pasupa, Thititorn Seneewong Na Ayutthaya, "Thai Sentiment Analysis with Deep Learning Techniques: A Comparative Study based on Word Embedding, POS-Tag, and Sentic Features", Sustainable Cities and Society, vol. X, pp. XX-XX, 2019. DOI: 10.1016/j.scs.2019.101615
+> Kitsuchart Pasupa, Thititorn Seneewong Na Ayutthaya, "Thai Sentiment Analysis with Deep Learning Techniques: A Comparative Study based on Word Embedding, POS-Tag, and Sentic Features", Sustainable Cities and Society, vol. 50, pp. 101615, 2019. DOI: 10.1016/j.scs.2019.101615
 
 Contributors
 - [Kitsuchart Pasupa](http://kitsuchart.pasupa.com)
