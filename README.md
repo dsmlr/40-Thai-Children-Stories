@@ -1,3 +1,5 @@
+![alt text](https://zenodo.org/badge/189707971.svg)
+
 # The 40 Thai Children Stories
 The dataset was collected from 40 Thai children stories. We manually split the text into sentences which leads to 1,964 sentences. Each sentence was manually tagged by experts into three classes which are positive, negative, and neutral according to the reader’s expressed emotion. The majority class given by the experts is neutral in this dataset. Sentences that were described by the same class chosen by all three experts are skimmed down to 1,114 sentences which comprise 298 negative sentences, 508 neutral sentences and 308 positive sentences.
 
